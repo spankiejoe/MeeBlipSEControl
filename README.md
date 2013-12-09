@@ -18,3 +18,14 @@ I also added some extra functionalities :
       - You can choose on which parameters the random will apply
       - You can set the range of the random values (for knobs)
 
+There are two packaged versions 
+* If you already have a Java 7 installed :
+http://saint-clair.net/download/meeblip/MeeBlipSEControl_v0.1.zip 
+* Java embedded version :
+http://saint-clair.net/download/meeblip/MeeBlipSEControl_v0.1_Java.zip
+
+Haven't tested it on Windows and Linux.
+Tested it on my MacOSX environment.
+
+Extended testing and feedback welcome.
+
